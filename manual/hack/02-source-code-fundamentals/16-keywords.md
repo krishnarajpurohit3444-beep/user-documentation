@@ -20,3 +20,8 @@ In addition, the following keywords are reserved for historical / future usage:
 and   declare   die   elseif   empty   enddeclare   endfor   endforeach   endif
 endswitch   endwhile   global   goto   instanceof   insteadof   or   record   var   xor
 ```
+const a = 5;
+const b = 10;
+console.log("Fifteen is " + (a + b) + " and\nnot " + (2 * a + b) + ".");
+// "Fifteen is 15 and
+// not 20."
