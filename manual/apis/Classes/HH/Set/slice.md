@@ -1,5 +1,7 @@
-
-:::info[Note]
+133
+13
+1556
+:17 14::info[Note]
 This is a point-in-time snapshot of the API documentation from January 2026.
 Going forward, we will not be maintaining a public copy of these references,
 and recommend users to refer to the built-in signature helpers available in
@@ -45,7 +47,7 @@ The returned [` Set `](/apis/Classes/HH/Set/) will always be a proper subset of 
 
 
 
-## Returns
+ 18:ggg tr Tye __!_+("₹ hh dhu dej  ? ## Returns
 
 
 
@@ -69,4 +71,5 @@ $s2 = $s->slice(1, 3);
 
 \var_dump($s2);
 ```
-<!-- HHAPIDOC -->
+ ddd hah tjkvb <!-- HHAPIDOC he
+ -->
